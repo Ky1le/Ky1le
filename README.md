@@ -41,3 +41,15 @@
 ![Apple](https://img.shields.io/static/v1?label=&message=Apple&color=grey&style=for-the-badge&logo=apple&logoColor=000000)&nbsp;
 
 # Latest Projects
+<table border=0>
+  <tr>
+  <td width="50%" align="center">
+      
+  ![](images/PDF_Manager_Preview.gif)
+      
+  </td>
+  <td>
+   A small application to merge multiple PDFs together.
+  </td>
+  </tr>
+</table>
