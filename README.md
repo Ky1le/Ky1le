@@ -57,6 +57,6 @@
   </tr>
 </table>
 
-<object>
-  <img align="right" src="https://img.shields.io/static/v1?label=&message=link&color=grey&style=for-the-badge&link=https://github.com/Ky1le/PDF-Manager" img>
-</object>
+<p align="right">
+  <a href="https://github.com/Ky1le/PDF-Manager">link</a> 
+</p>
